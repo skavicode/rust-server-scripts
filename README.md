@@ -29,7 +29,7 @@ Rust server you might want to try:
 To install the server, you'll need to the update script for the type of server
 you want.
 
-**NB** is you want to update modded, first update vanilla, then modded. Modded
+**NB** if you want to update modded, first update vanilla, then modded. Modded
 works by copying vanilla, then installing Oxide into it.
 
 ## Setting up servers
